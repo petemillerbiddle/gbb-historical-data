@@ -1,0 +1,11 @@
+Baker,Gender,Age,Occupation,Hometown,Round_1_Technical,Round_1,Round_2_Technical,Round_2,Round_3_Technical,Round_3,Round_4_Technical,Round_4,Round_5_Technical,Round_5,Round_6,Technicals,Handshakes,Star_Bakers
+Edd,M,24,Debt collector for Yorkshire Bank,Bradford,1,SAFE,6.0,HIGH,1.0,HIGH,3.0,LOW,2.0,HIGH,WINNER,2,,
+Ruth,F,31,Retail manager/Housewife,"Poynton, Cheshire",unknown,HIGH,5.0,SAFE,2.0,HIGH,4.0,HIGH,3.0,HIGH,Runner-up,0,,
+Miranda,F,37,Food buyer for Marks & Spencer,"Midhurst, West Sussex",8,HIGH,3.0,HIGH,3.0,SAFE,1.0,HIGH,1.0,LOW,Third,2,,
+Jasminder,F,45,Assistant Credit Control Manager,Birmingham,unknown,SAFE,2.0,SAFE,5.0,LOW,2.0,HIGH,4.0,OUT,,0,,
+David,M,31,Entrepreneur,Milton Keynes,3,LOW,8.0,LOW,4.0,LOW,5.0,OUT,,,,0,,
+Jonathan,M,25,Research Analyst,St Albans,9,SAFE,1.0,HIGH,6.0,OUT,,,,,,1,,
+Annetha,F,30,Midwife,Essex,2,HIGH,7.0,OUT,,,,,,,,0,,
+Louise,F,44,Police Officer,Manchester,unknown,LOW,4.0,OUT,,,,,,,,0,,
+Lea,F,51,Retired,"Midlothian, Scotland",10,OUT,,,,,,,,,,0,,
+Mark,M,48,Bus Driver,South Wales,unknown,OUT,,,,,,,,,,0,,
